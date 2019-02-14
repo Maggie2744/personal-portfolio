@@ -24,3 +24,23 @@ body {
   display: block;
   width: 100%;
 }
+
+.logo {
+  width: 200px;
+  margin: auto;
+}
+
+ul {
+  padding: 0;
+}
+
+.picture-1:hover {
+
+}
+
+footer {
+  background-color: #e2e2e2;
+}
+
+@media only screen and (min-width: 25em) {
+}
